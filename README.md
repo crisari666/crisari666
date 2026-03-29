@@ -25,9 +25,8 @@ I specialize in building scalable backend architectures and high-performance ful
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Crisari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisari666&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisari666&layout=compact&theme=tokyonight)
 ---
 
 ### 🎵 When I'm not coding...
