@@ -17,16 +17,16 @@ I specialize in building scalable backend architectures and high-performance ful
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Node.js, NestJS, Python, Microservices |
-| **Frontend** | React, Next.js, TypeScript |
-| **Databases** | PostgreSQL, MongoDB, Weaviate (Vector DB), Redis |
+| **Backend** | Node.js, NestJS, Python, Microservices, Linux |
+| **Frontend** | React, Next.js, TypeScript, Flutter, Dart |
+| **Databases** | PostgreSQL, MongoDB, Weaviate (Vector DB), Redis, Mysql |
 | **DevOps/Tools** | Docker, AWS, Git, CI/CD |
 
 ---
 
 ### 📊 GitHub Activity
-![Crisari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisari666&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisari666&layout=compact&theme=tokyonight)
+![Crisari's GitHub Stats](https://github-stats-extended.vercel.app/api?username=crisari666&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=crisari666&layout=compact&theme=tokyonight)
 ---
 
 ### 🎵 When I'm not coding...
