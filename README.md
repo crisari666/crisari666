@@ -1,6 +1,6 @@
 # Hi there, I'm [Christian] 👋
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312qkgkv3gf5r5rly5bn4dqsqq2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=5403a5)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312qkgkv3gf5r5rly5bn4dqsqq2a&cover_image=true&theme=Natemoo&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=56046c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Full-Stack Engineer | 10+ Years Experience | Solution Architect
 
