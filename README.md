@@ -1,4 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Christian] 👋
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312qkgkv3gf5r5rly5bn4dqsqq2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=5403a5)](https://github.com/kittinan/spotify-github-profile)
+
 ### Full-Stack Engineer | 10+ Years Experience | Solution Architect
 
 I specialize in building scalable backend architectures and high-performance full-stack solutions. Currently, I'm deep-diving into **RAG (Retrieval-Augmented Generation) agents** and automated management systems.
