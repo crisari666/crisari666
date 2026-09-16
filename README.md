@@ -34,7 +34,7 @@ I specialize in building scalable backend architectures and high-performance ful
 ---
 
 ### 🎵 When I'm not coding...
-You can find me optimizing my jungle pathing in **Wild Rift**, hitting the gym, or listening to **Techno & Psychedelic** sets.
+You can find me: hitting the gym, hiking, off road, running or whatever sport for strong my mind.
 
 ---
 
